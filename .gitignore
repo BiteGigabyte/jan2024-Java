@@ -30,3 +30,6 @@ bin/
 
 # Ignore IntelliJ IDEA project files
 .idea/
+
+# Ignore specific .iml file
+jan2024-Java.iml
